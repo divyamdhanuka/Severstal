@@ -31,15 +31,15 @@ pip install tensorflow opencv-python-headless matplotlib scikit-learn
 
 1. **Clone the repository**:
 ```bash
-git clone [Your Repository Link]
-cd [Your Repository Name]
+git clone https://github.com/divyamdhanuka/Severstals
+cd Severstal
 ```
 
 2. **Run the provided code**:
-Replace `[Your Code File].py` with the name of the main script.
+Replace `Severstal.py` with the name of the main script.
 
 ```bash
-python [Your Code File].py
+python Severstal.py
 ```
 
 3. Visualize the results in the generated plots.
